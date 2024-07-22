@@ -14,3 +14,9 @@ A simple terminal-based Snake game written in Python using the `curses` library.
 
    ```bash
    pip install windows-curses
+
+##Running the Game
+Run the game using the following command:
+
+  ```bash
+python snake_game.py
